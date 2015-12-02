@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<root>
+  <deviceproductdef>
+    <productname>Sculpt_Ergonomic</productname>
+    <productid>0x07a5</productid>
+  </deviceproductdef>
+  <item>
+    <name>Windows Button to LAUNCHPAD (Microsoft Sculpt Ergonomic Mouse)</name>
+    <identifier>com.microsoft.mouse.sculpt_ergonomic</identifier>
+    <device_only>DeviceVendor::MICROSOFT,DeviceProduct::Sculpt_Ergonomic</device_only>
+    <autogen>
+      __KeyToKey__
+      KeyCode::COMMAND_R,
+      KeyCode::LAUNCHPAD
+    </autogen>
+    <autogen>
+      __PointingRelativeToScroll__
+      PointingButton::BUTTON4,
+      Option::POINTINGRELATIVETOSCROLL_TOKEYS,
+      KeyCode::BRACKET_LEFT, ModifierFlag::COMMAND_L,
+    </autogen>
+  </item>
+</root>
