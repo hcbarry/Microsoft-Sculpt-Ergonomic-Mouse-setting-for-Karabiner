@@ -8,5 +8,6 @@ https://www.microsoft.com/hardware/en-ca/p/sculpt-ergonomic-mouse#details
 Useful links
 ------------
 * Latest Karabiner build: https://pqrs.org/osx/karabiner/
-* Karabiner on Github: https://github.com/tekezo/Karabiner
+* Manual: https://pqrs.org/osx/karabiner/document.html.en
 * private.xml Reference Manual: https://pqrs.org/osx/karabiner/xml.html.en
+* Karabiner on Github: https://github.com/tekezo/Karabiner
