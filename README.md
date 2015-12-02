@@ -1,5 +1,5 @@
-# Microsoft Sculpt Ergonomic Mouse setting for Karabiner
-=========
+## Microsoft Sculpt Ergonomic Mouse setting for Karabiner
+
 
 This repository contains Karabiner custom setting for "Windows Button" and "Back Button" support on Microsoft Sculpt Ergonomic Mouse
 
